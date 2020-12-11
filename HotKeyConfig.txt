@@ -1,0 +1,76 @@
+Change only the values!
+161 -Layered hotkey (Was Right_Shift)
+89 -invade
+85 -place whitesign
+73 -place redsign
+79 -disconnect
+69 -ember
+112 -disable protections
+113 -enable protections
+86 -update shader
+76 -dried finger
+114 -disable GUI overlay
+115 -enable GUI overlay
+116 -Page over GUI overlay
+117 -Force borderless fullscreen
+
+----[Basickeys]----
+Letters:
+65 -A
+66 -B
+67 -C
+68 -D
+69 -E
+70 -F
+71 -G
+72 -H
+73 -I
+74 -J
+75 -K
+76 -L
+77 -M
+78 -N
+79 -O
+80 -P
+81 -Q
+82 -R
+83 -S
+84 -T
+85 -U
+86 -V
+87 -W
+88 -X
+89 -Y
+90 -Z
+
+Numbers: (Numpad and the numbers above qwerty are different)
+48 -0
+49 -1
+50 -2
+51 -3
+52 -4
+53 -5
+54 -6
+55 -7
+56 -8
+57 -9
+
+SystemKeys:
+Shift -16
+Control -17
+Alt -18
+Escape -27
+PageUp - 33
+PageDown -34
+END -35
+Home -36
+F1 <-> F24 =(112 <-> 135)
+Left shift -160
+Right shift -161
+
+
+/--------------------------------------------------[VirtualKeyList]--------------------------------------------------\
+
+https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+
+*If you know a key that you want go to the link and use CLT+F and input the desired key, you must convert the hex into decimal if you choose from more than what ive typed out.
